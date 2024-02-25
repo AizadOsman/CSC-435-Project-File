@@ -1,0 +1,9 @@
+FULL TIME EMPLOYEES
+
+1111	Abdul Aziz	IT		5000
+3333	Aidil Mustafa	Finance		2500
+4444	Ahmad Fairuz	IT		4500
+
+Total number of full time employee : 3
+Total highest salary : 5000.0
+The name of employee with the highest salary is Abdul Aziz

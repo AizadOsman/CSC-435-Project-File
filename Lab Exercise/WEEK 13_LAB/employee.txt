@@ -1,0 +1,5 @@
+1111,Abdul Aziz,IT,5000,F
+2222,Siti Farhana,HR,1200,P
+3333,Aidil Mustafa,Finance,2500,F
+4444,Ahmad Fairuz,IT,4500,F
+5555,Nur Syahirah,Sales,35000,P
