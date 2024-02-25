@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Industry
+comment1.params=c\ yr\ ys
+comment1.target=Industry(java.lang.String,\ double,\ double)
+comment2.params=code
+comment2.target=Industry(java.lang.String)
+comment3.params=code\ name
+comment3.target=Industry(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getCode()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=
+comment6.target=double\ getYearRevenue()
+comment7.params=
+comment7.target=double\ getYearService()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=double\ payTax()
+numComments=10
