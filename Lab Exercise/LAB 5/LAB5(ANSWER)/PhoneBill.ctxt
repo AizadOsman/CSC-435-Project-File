@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PhoneBill
+comment1.params=staffNo\ name\ deptName\ minutes
+comment1.target=PhoneBill(java.lang.String,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getStaffNo()
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=java.lang.String\ getDeptName()
+comment5.params=
+comment5.target=int\ getMinutes()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=
+comment7.target=double\ calPhoneBill()
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

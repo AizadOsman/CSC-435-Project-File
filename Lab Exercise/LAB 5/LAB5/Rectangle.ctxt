@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment1.params=
+comment1.target=Rectangle()
+comment2.params=w\ l
+comment2.target=void\ setData(double,\ double)
+comment3.params=
+comment3.target=void\ displayData()
+numComments=4

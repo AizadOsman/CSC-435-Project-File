@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Hotel
+comment1.params=ic\ room\ day
+comment1.target=Hotel(java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=
+comment3.target=double\ calcRate()
+comment4.params=
+comment4.target=double\ calcCost()
+numComments=5

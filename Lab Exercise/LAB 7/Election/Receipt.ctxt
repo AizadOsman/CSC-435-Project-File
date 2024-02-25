@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Receipt
+comment1.params=d\ nr\ s\ Ap\ assBy
+comment1.target=void\ SetData(int,\ java.lang.String,\ double,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getDate()
+comment3.params=
+comment3.target=java.lang.String\ getNameReceived()
+comment4.params=
+comment4.target=double\ getSum()
+comment5.params=
+comment5.target=java.lang.String\ getAimPayment()
+comment6.params=
+comment6.target=java.lang.String\ getAssignedBy()
+comment7.params=
+comment7.target=double\ calculateNetPayment()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
