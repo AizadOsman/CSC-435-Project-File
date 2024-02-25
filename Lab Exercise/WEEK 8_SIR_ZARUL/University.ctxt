@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=University
+comment1.params=colleges
+comment1.target=University(java.util.List)
+comment2.params=
+comment2.target=java.util.List\ getTotalCollegesInUniversity()
+numComments=3

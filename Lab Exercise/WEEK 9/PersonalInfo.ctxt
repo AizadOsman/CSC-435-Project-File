@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PersonalInfo
+comment1.params=
+comment1.target=PersonalInfo()
+comment2.params=first\ last\ month\ day\ year\ ID
+comment2.target=PersonalInfo(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment3.params=first\ last\ month\ day\ year\ ID
+comment3.target=void\ setpersonalInfo(java.lang.String,\ java.lang.String,\ int,\ int,\ int,\ int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

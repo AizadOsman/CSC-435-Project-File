@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=FullTime
+comment1.params=
+comment1.target=FullTime()
+comment2.params=n\ nn\ s\ a\ r\ hw
+comment2.target=FullTime(java.lang.String,\ java.lang.String,\ double,\ double,\ int,\ int)
+comment3.params=
+comment3.target=double\ getSalary()
+comment4.params=
+comment4.target=double\ getAll()
+comment5.params=
+comment5.target=int\ getR()
+comment6.params=
+comment6.target=int\ getHr()
+comment7.params=
+comment7.target=void\ display()
+comment8.params=
+comment8.target=double\ calSalary()
+numComments=9

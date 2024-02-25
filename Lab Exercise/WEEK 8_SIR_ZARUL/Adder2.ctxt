@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Adder2
+comment1.params=a\ b
+comment1.target=int\ add(int,\ int)
+comment2.params=a\ b
+comment2.target=double\ add(double,\ double)
+numComments=3

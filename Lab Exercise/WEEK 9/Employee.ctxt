@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Employee
+comment1.params=
+comment1.target=Employee()
+comment2.params=name\ empNo
+comment2.target=Employee(java.lang.String,\ java.lang.String)
+comment3.params=name\ empNo
+comment3.target=void\ setEmployee(java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=java.lang.String\ getNo()
+comment6.params=
+comment6.target=void\ display()
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8
