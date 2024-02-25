@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Fund
+comment1.params=f\ ac
+comment1.target=Fund(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getFaculty()
+comment3.params=
+comment3.target=double\ getAmount_contribution()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Statement
+comment1.params=days\ rtype
+comment1.target=double\ calRcharge(int,\ java.lang.String)
+comment2.params=days\ telephone_used
+comment2.target=double\ calPcharge(int,\ java.lang.String)
+comment3.params=days\ television_used
+comment3.target=double\ calTcharge(int,\ java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
